@@ -104,6 +104,7 @@ Atualmente, dedico meus estudos à aprender novas linguagens e tecnlogias , para
 <br/>
 <br/>
 
+![gif](https://github.com/user-attachments/assets/678d4e81-0682-4076-ba6b-ebcee0705f5e)
 
 
 
