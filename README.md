@@ -1,6 +1,6 @@
 ##  👩🏻‍💻 Paulo Victor
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Web e Mobile`**
 
 Olá! Sou estudante de Ciência da Computação na UNIFACS, apaixonado por transformar desafios complexos em interfaces fluidas e eficientes. Meu foco principal é o desenvolvimento Front-end, criando experiências completas para Web e Mobile. Também tenho interesse na parte de UX e UI Design para Web , Mobile e Games.
 
