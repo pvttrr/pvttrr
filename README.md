@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Web e Mobile`**
 
-Olá! Sou estudante de Ciência da Computação na UNIFACS, apaixonado por transformar desafios complexos em interfaces fluidas e eficientes. Meu foco principal é o desenvolvimento Front-end, criando experiências completas para Web e Mobile. Também tenho interesse na parte de UX e UI Design para Web , Mobile e Games.
+Olá! Sou estudante de Ciência da Computação na UNIFACS, apaixonado por transformar desafios complexos em interfaces fluidas e eficientes. Meu foco principal é a Analise de Qualidade e o desenvolvimento Front-end, criando experiências completas para Web e Mobile. Também tenho interesse na parte de UX e UI Design para Web , Mobile e Games.
 
 Atualmente, dedico meus estudos à aprender novas linguagens e tecnlogias , para poder criar um ecossistema moderno de desenvolvimento.
 
